@@ -1,7 +1,7 @@
 {
   "name": "bfx-challenge",
   "version": "0.0.0",
-  "author": "Ifedili Onyegbu<onyegbuifedili@gmail.com>",
+  "author": "Sujal Patil<sujal4.patil@gmail.com>",
   "description": "The BFX challenge",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,5 @@
     "grenache-nodejs-link": "^0.7.12",
     "uuid": "^9.0.0"
   },
-  "repository": "https://github.com/saucecodee/distributed-exchange.git"
+  "repository": "https://github.com/sujal7103/Distributed-Exchange.git"
 }
